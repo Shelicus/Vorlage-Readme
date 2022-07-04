@@ -18,7 +18,7 @@
 * [Kompatibilität](#Kompatibilität)
   * [Client Betriebsysteme](#Client-Betriebsysteme)
   * [Server Betriebsysteme](#Server-Betriebsysteme)
-  * [Komiler Version](#Kompiler-Version)
+  * [Kompiler Version](#Kompiler-Version)
 * [Licenze](#Licenze)
 
 ## Vorbereitung:
