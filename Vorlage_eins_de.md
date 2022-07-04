@@ -106,8 +106,8 @@
 ### Browser Version:
 | Browser | Version | Test Ergebnis|
 |:---:|:---:|:---:|
-| Opera | aktuellste Version | Oracle OpenJDK |![funk](https://img.shields.io/badge/checks-passing-green)|
-| Chrome | aktuellste Version | Oracle OpenJDK |![funk](https://img.shields.io/badge/checks-passing-green)|
+| Opera | aktuellste Version | ![funk](https://img.shields.io/badge/checks-passing-green)|
+| Chrome | aktuellste Version | ![funk](https://img.shields.io/badge/checks-passing-green)|
 
 
 > Wurde getestet: ![funk](https://img.shields.io/badge/checks-passing-green) | Wurde noch nicht getestet: ![funk_n](https://img.shields.io/badge/checks-not%20tested-red)
