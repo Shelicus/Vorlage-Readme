@@ -3,12 +3,12 @@
 ## Beschreibung:
 
 Eine Vorlage für das README für ein Repository.
-Mit den Hilfmiteln aus **Nützlich** können auch eigene Readmes erstellt werden.
+Mit den Objekten aus **Nützlich** können auch eigene Readmes erstellt werden.
 
 ## Licenze:
 
 Die Lizenz zur weiter Verwendung dieses Projektes, wird durch das **Creative Common** Model angegeben. 
-Bei Ablehnung jeglicher Verwendung durch meinerseits mit den Piktogrammen oder Sie möchten das Projekt in einer Form verwenden, die nicht hier genannt wurde, muss vor 
+Bei Ablehnung jeglicher Verwendung durch meinerseits mit den Piktogrammen oder Sie möchten das Projekt in einer Form verwenden die nicht hier genannt wurde, muss vor 
 der Benutzung des Projektes die Zustimmung eingeholt werden.
 
 |Verwendet|Piktogramm|Bezeichnung|Verlinkung|
