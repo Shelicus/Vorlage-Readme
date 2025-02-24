@@ -122,6 +122,3 @@ Bei Ablehnung jeglicher Verwendung durch meinerseits mit den Piktogrammen oder w
 
 > Verwendete Lizenz: :heavy_check_mark: Nicht verwendete Lizenz: :x:
 
-
-
-
