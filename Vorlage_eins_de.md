@@ -64,8 +64,8 @@
 
 > Wurde getestet: ![funk](https://img.shields.io/badge/checks-passing-green) | Wurde noch nicht getestet: ![funk_n](https://img.shields.io/badge/checks-not%20tested-red)
 
-### Compiler-Version:
-| Compiler | Version | Testergebnis |
+### Interpreter-Version:
+| Interpreter | Version | Testergebnis |
 |:---:|:---:|:---:|
 | Python | 3.9 | ![funk](https://img.shields.io/badge/checks-passing-green) |
 | Python | 3.10 | ![funk](https://img.shields.io/badge/checks-passing-green) |
